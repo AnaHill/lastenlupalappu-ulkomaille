@@ -1,4 +1,4 @@
-# Lastenlupalappu ulkomaille
+# Huoltajan lupatodistus lapsen ulkomaan reissulle
 
 Täytettävä ja tulostettava huoltajan lupatodistus lapsen lomamatkalle ulkomaille.
 Pohjautuu Ulkoministeriön ohjeistukseen ([um.fi/lapselle-huoltajien-lupa-lomamatkalle](https://um.fi/lapselle-huoltajien-lupa-lomamatkalle)).
