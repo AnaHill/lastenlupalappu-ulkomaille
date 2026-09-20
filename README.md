@@ -22,7 +22,7 @@ Sivu toimii täysin selaimessa eikä lähetä mitään tietoja verkkoon — kaik
 
 - Pidä lupatodistus lapsen oman passin mukana koko matkan ajan.
 - Näytä se lentoyhtiölle tai rajaviranomaisille pyydettäessä.
-- Tarkista kohdemaan omat vaatimukset ennen matkaa, koska ne vaihtelevat maittain.
+- Tarkista aina alaikäistä koskevat matkustusvaatimukset kohdevaltion viranomaisilta, koska ne vaihtelevat maittain (Ulkoministeriö).
 - Jos vain toisella huoltajalla on huoltajuus, liitä mukaan kopio huoltajuuspäätöksestä.
 
 ---
@@ -43,3 +43,10 @@ Open the form at **[anahill.github.io/lastenlupalappu-ulkomaille](https://anahil
 3. Fill in the child's, travel, and guardians' details, then print or save as PDF.
 
 Either way, the page runs fully offline — nothing is sent over the network. Entered values are saved to this browser's local storage on this device, so the form stays filled in next time you open the file, until you click "New (clear saved data)" or clear the browser's site data.
+
+## Before you travel
+
+- Keep this letter with the child's own valid passport throughout the trip.
+- Present it to airline staff or border control if requested — it does not replace the child's travel document.
+- Always check the destination country's own travel requirements for minors with its authorities, as they vary by country — *"Tarkista aina alaikäistä koskevat matkustusvaatimukset kohdevaltion viranomaisilta"* (Finnish Ministry for Foreign Affairs).
+- If only one guardian has custody, consider attaching a copy of the custody decision.
